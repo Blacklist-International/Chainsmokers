@@ -1,4 +1,4 @@
-from typing import List
+from typing import List, Tuple
 
 def Solution(s : int, t : int, a : int, b : int, apples : List[int], oranges : List[int]) -> Tuple[int]:
     """_summary_
