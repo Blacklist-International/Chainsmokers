@@ -1,3 +1,5 @@
+from typing import List
+
 def SimpleArraySum(nums : List[int]) -> int:
     """
     >>> sol_one = SimpleArraySum([1, 2, 3, 4, 10, 11])
